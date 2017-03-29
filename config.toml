@@ -1,0 +1,20 @@
+baseurl = "http://ukmc.se"
+title = "UKMC"
+theme = "dimension"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+disableRSS = true
+
+[params]
+  title = "UKMC"
+  description = '<!--[-->Uppsala Kristna Motorcykelklubb<!--]--><br />
+                <!--[-->- Sidan är under uppbyggnad - Medlemmar hänvisas tillsvidare till <a href="https://www.facebook.com/groups/uppsalakristnamc">Facebookgruppen</a>.<!--]-->'
+  logo = "fa-diamond"
+  copyright = "UKMC"
+
+[languages]
+[languages.en]
+languageName = "English"
+weight = 1
+title = "UKMC"
