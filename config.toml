@@ -1,6 +1,7 @@
 baseurl = "https://ukmc.se"
 title = "Uppsala Kristna Motorcykelklubb"
-theme = "hugo-universal-theme"
+theme = ""
+# The theme has been integrated in the site and altered.
 languageCode = "en-us"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "sv"
