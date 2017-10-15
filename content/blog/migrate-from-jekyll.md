@@ -1,9 +1,9 @@
 +++
-title = "Migrate from Jekyll"
+title = "Avrostning i vår"
 date = "2015-10-10T13:07:31+02:00"
 tags = ["ipsum"]
 categories = ["lorem"]
-banner = "img/banners/banner-5.jpg"
+banner = "img/banners/banner-6.jpg"
 +++
 
 ## Move static content to `static`
