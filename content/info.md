@@ -10,7 +10,7 @@ Placeholder
 
 Placeholder
 
-[Stadgar](/doc/kortege.pdf)
+[Regler vid körning i kortege](/doc/kortege.pdf)
 
 ---
 
