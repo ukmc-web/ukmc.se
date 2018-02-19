@@ -28,20 +28,15 @@ paginate = 5
     weight = 2
 
 [[menu.main]]
-    name = "Event"
-    url  = "/event/"
+    name = "INFO"
+    identifier = "info"
+    url  = "/info/"
     weight = 3
-
-[[menu.main]]
-    name = "FAQ"
-    identifier = "faq"
-    url  = "/faq/"
-    weight = 4
 
 [[menu.main]]
     name = "Kontakt"
     url  = "/contact/"
-    weight = 5
+    weight = 4
 
 # Top bar social links menu
 
@@ -85,7 +80,7 @@ paginate = 5
     email = "styrelsen@ukmc.se"
 
     about_us = "<p>Uppsala Kristna Motorcykelklubb</p>"
-    copyright = "Copyright (c) 2017, UKMC; all rights reserved."
+    copyright = "Copyright (C) 2018, UKMC; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
@@ -142,7 +137,7 @@ paginate = 5
     icon = "fa fa-question"
     title = "Nyfiken?"
     subtitle = "Klicka här för att få veta mer om UKMC"
-    link_url = "/faq"
+    link_url = "/info"
     link_text = "Mer info"
 
 [params.clients]
@@ -156,4 +151,4 @@ paginate = 5
 [params.recent_posts]
     enable = true
     title = "Från vår blogg"
-    subtitle = "Ibland är vi duktiga och bloggar om allt mellan Jesus och oljebyten. Gå in och läs!"
+    subtitle = "Ibland är vi duktiga och bloggar om allt mellan Jesus och oljebyten. Annat aktuellt och intressant kan också dyka upp här. Gå in och läs!"
