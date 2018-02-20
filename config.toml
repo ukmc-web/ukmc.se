@@ -18,7 +18,7 @@ paginate = 5
 # Main menu
 
 [[menu.main]]
-    name = "Home"
+    name = "Hem"
     url  = "/"
     weight = 1
 
@@ -28,7 +28,7 @@ paginate = 5
     weight = 2
 
 [[menu.main]]
-    name = "INFO"
+    name = "Info"
     identifier = "info"
     url  = "/info/"
     weight = 3
@@ -55,8 +55,8 @@ paginate = 5
 [params]
     viewMorePostLink = "/blog/"
     author = "UKMC"
-    defaultKeywords = ["devows", "hugo", "go"]
-    defaultDescription = "Site template made by devcows using hugo"
+    defaultKeywords = [""]
+    defaultDescription = ""
 
     # Google Maps API key (if not set will default to not passing a key.)
     googleMapsApiKey = ""
@@ -79,14 +79,14 @@ paginate = 5
     # Enable the contact form by entering your Formspree.io email
     email = "styrelsen@ukmc.se"
 
-    about_us = "<p>Uppsala Kristna Motorcykelklubb</p>"
-    copyright = "Copyright (C) 2018, UKMC; all rights reserved."
+    about_us = "<p>För Gud älskade människorna så mycket att han gav dem sin ende Son, för att de som tror på honom inte ska gå under utan ha evigt liv. Gud sände inte sin Son till världen för att döma dem utan för att rädda dem</p>"
+    copyright = "Copyright (C) 2018, UKMC"
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
 
     logo = "img/logo.png"
-    address = """<p><strong>hejsan@ukmc.se</strong>
+    address = """<p><strong>styrelsen@ukmc.se</strong>
         <br>
         <strong></strong>
       </p>
@@ -141,7 +141,7 @@ paginate = 5
     link_text = "Mer info"
 
 [params.clients]
-    enable = true
+    enable = false
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
@@ -151,4 +151,4 @@ paginate = 5
 [params.recent_posts]
     enable = true
     title = "Från vår blogg"
-    subtitle = "Ibland är vi duktiga och bloggar om allt mellan Jesus och oljebyten. Annat aktuellt och intressant kan också dyka upp här. Gå in och läs!"
+    subtitle = "Här lägger vi upp nyheter, evenemang, bilder och blogginlägg. Du hittar inlägg om allt mellan Jesus och oljebyten. Gå in och läs!"

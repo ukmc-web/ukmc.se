@@ -59,7 +59,7 @@
   translation: "Senaste inlägg"
 
 - id: aboutUs
-  translation: "Om oss"
+  translation: "Lilla Bibeln"
 
 - id: newer
   translation: "Nyare"
@@ -68,4 +68,4 @@
   translation: "Äldre"
 
 - id: publishedOn
-  translation: "på"
+  translation: "publicerad"
