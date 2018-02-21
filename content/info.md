@@ -11,7 +11,7 @@ keywords = ["info","klubb","ukmc","vad"]
 
 ### Vision
 
-
+<img src="/img/product2.jpg">
 ---
 
 **Om du undrar något som inte står här är du välkommen att höra av dig via vårt [kontaktformulär](/contact).**
