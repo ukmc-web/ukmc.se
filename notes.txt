@@ -1,0 +1,19 @@
+Footer on info page does not stick to bottom of page
+
+This css might be useful, but the way I used it, it affected all pages = bad news.
+
+#footer {
+  position: absolute;
+  bottom: 52px;
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+
+#copyright {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
