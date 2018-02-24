@@ -41,10 +41,10 @@
                             <p class="author-category">
                             {{ with .Params.author }}
                             {{ i18n "authorBy" }} <a href="#">{{ . }}</a>
-                            {{ end }}
+                            {{ end }} </br>
                             {{ i18n "publishedOn" }} {{ .Date.Format .Site.Params.date_format }}
                             </p>
-                            <p class="intro">{{ .Summary }}</p>
+                            <!--<p class="intro">{{ .Summary }}</p> -->
                             <p class="read-more">
                               <a href="{{ .Permalink }}" class="btn btn-template-main">{{ i18n "continueReading" }}</a>
                             </p>
