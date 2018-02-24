@@ -1,36 +1,12 @@
-# ukmc.se
-Website for Uppsala Kristna MotorCykelklubb
+# UKMC:s hemsida, originalfilerna
 
-## Usage
+## Hur man gör ändringar
 
-In order to see your site in action, run Hugo's built-in local server.
+ 1. Skaffa ett konto på Github (rekomenderar att använda förnamnefternamn).
+ 2. Gör en [fork](https://github.com/ukmc-web/ukmc.se/fork) av detta repository.
+ 3. Gör ändringar på innehållet. Själva texten finns i content mappen.
+ 4. Gör en pull-request.
 
-```
-$ hugo server -w
-```
+## Avancerat
 
-Now enter [`localhost:1313`](http://localhost:1313) in the address bar of your browser.
-
-For more information check out the official [Hugo documentation](http://gohugo.io/overview/usage/).
-
-### Comments
-
-The optional comments system is powered by [Disqus](https://disqus.com). If you want to enable comments, create an account in Disqus and write down your shortname.
-
-```toml
-disqusShortname = "devcows"
-```
-
-You can disable the comments system by leaving the `disqusShortname` empty.
-
-
-### Google Analytics
-
-You can optionally enable Google Analytics. Type your tracking code in the ``.
-
-```toml
-googleAnalytics = "UA-XXXXX-X"
-```
-
-Leave the `googleAnalytics` key empty to disable it.
-
+Ifall du vill göra mer avancerade saker bör du testa att använda [hugo](http://gohugo.io) för att själv generera om sidorna och kunna förhandsgranska det du gör.

@@ -1,11 +1,47 @@
 +++
 title = "Avrostning 2018"
-date = "2015-10-10T13:07:31+02:00"
+date = "2018-02-01T13:07:31+02:00"
 tags = [""]
-categories = [""]
-banner = "img/banners/banner-6.jpg"
+categories = ["blog"]
+banner = "img/blog/banner-6.jpg"
+author = "UKMC"
 +++
 
-# Avrostning 2018
 
-Lorem ipsum
+
+En avrostning på rörken vore väl trevligt i vår.
+<!--more-->
+
+På på forumet diskuterar vi saken.
+
+</br>
+<a href="/img/blog/banner-6.jpg"> 
+<img src="/img/blog/banner-6.jpg" height="auto" width="25%"> 
+</a>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
