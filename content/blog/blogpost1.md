@@ -7,7 +7,7 @@ banner = "img/blog/banner-4.jpg"
 author = "UKMC"
 +++
 
-  
+
 
 Provkörning på Sulas MC
 <!--more-->
@@ -33,12 +33,3 @@ Sulas MC bjöd in till provkörning av diverse cyklar och de vi gillade mest var
 <a href="/img/blog/photo_2018-02-24_00-40-02.jpg"> 
 <img src="/img/blog/photo_2018-02-24_00-40-02.jpg" height="auto" width="25%">
 </a>
-
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>

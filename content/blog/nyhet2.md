@@ -15,34 +15,3 @@ Det blev några utflykter till Öregrund där det bjuds på både uteliv samt fi
 <a href="/img/blog/banner-7.jpg"> 
 <img src="/img/blog/banner-7.jpg" height="auto" width="25%"> 
 </a>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>

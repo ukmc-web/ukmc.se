@@ -40,18 +40,3 @@ Vissa fortsatte sedan på nya äventyr, bla. till Furusund.
 <a href="/img/blog/IMG_5986.jpg"> 
 <img src="/img/blog/IMG_5986-1.JPG" height="auto" width="25%"> 
 </a>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>

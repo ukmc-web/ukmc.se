@@ -16,34 +16,3 @@ Det blev en aktiv tur på kurviga vägar lagom till sommarsäsongens slut.
 <a href="/img/blog/banner-8.jpg"> 
 <img src="/img/blog/banner-8.jpg" height="auto" width="25%"> 
 </a>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
