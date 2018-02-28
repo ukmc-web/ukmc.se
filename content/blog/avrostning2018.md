@@ -18,33 +18,3 @@ På på forumet diskuterar vi saken.
 <a href="/img/blog/banner-6.jpg"> 
 <img src="/img/blog/banner-6.jpg" height="auto" width="25%"> 
 </a>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
