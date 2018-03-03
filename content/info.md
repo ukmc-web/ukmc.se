@@ -12,6 +12,6 @@ keywords = ["info","klubb","ukmc","vad"]
 ### [Medlemskap](/doc/medlemskap-2018.pdf)
 </br>
 <img src="/img/photogrid.jpg" height="auto" width="100%">
----
+
 
 **Om du undrar något som inte står här är du välkommen att höra av dig via vårt [kontaktformulär](/contact).**
