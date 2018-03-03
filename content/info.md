@@ -8,6 +8,8 @@ keywords = ["info","klubb","ukmc","vad"]
 ### [Regler vid körning i kortege](/doc/kortege.pdf)
 
 ### [Stadgar](/doc/stadgar.pdf)
+
+### [Medlemskap](/doc/medlemskap-2018.pdf)
 </br>
 <img src="/img/photogrid.jpg" height="auto" width="100%">
 ---

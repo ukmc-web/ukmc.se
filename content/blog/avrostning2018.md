@@ -9,10 +9,10 @@ author = "UKMC"
 
 
 
-En avrostning på rörken vore väl trevligt i vår.
+En avrostning med SMC på Rörken vore väl trevligt i vår.
 <!--more-->
 
-På på forumet diskuterar vi saken.
+På på [forumet](http://motordravel.boards.net) diskuterar vi saken.
 
 </br>
 <a href="/img/blog/banner-6.jpg"> 
