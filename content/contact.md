@@ -1,7 +1,6 @@
 +++
 title = "Kontakt"
 +++
-
 ### Hör gärna av dig om du har frågor eller vill gå med i klubben
 
 <iframe src="https://services.cognitoforms.com/f/IV4Ih4zDREiL8BfUzqOy6Q?id=1" style="position:relative;width:1px;min-width:100%;*width:100%;" frameborder="0" scrolling="yes" seamless="seamless" height="557" width="100%"></iframe>
