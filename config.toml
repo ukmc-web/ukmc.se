@@ -82,7 +82,7 @@ paginate = 5
     email = "styrelsen@ukmc.se"
 
     about_us = "<p>För Gud älskade människorna så mycket att han gav dem sin ende Son, för att de som tror på honom inte ska gå under utan ha evigt liv. Gud sände inte sin Son till världen för att döma dem utan för att rädda dem</p>"
-    copyright = "Copyright (C) 2018, UKMC"
+    copyright = "Copyright (C) 2019, UKMC"
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
