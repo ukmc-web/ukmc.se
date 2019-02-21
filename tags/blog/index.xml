@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Uppsala Kristna Motorcykelklubb</title>
+    <link>http://ukmc.se/tags/blog/</link>
+    <description>Recent content in Blog on Uppsala Kristna Motorcykelklubb</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (C) 2019, UKMC</copyright>
+    <lastBuildDate>Sat, 23 Sep 2017 21:49:20 +0200</lastBuildDate>
+    
+	<atom:link href="http://ukmc.se/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Säsongsavslut</title>
+      <link>http://ukmc.se/blog/2017/09/23/nyhet4/</link>
+      <pubDate>Sat, 23 Sep 2017 21:49:20 +0200</pubDate>
+      
+      <guid>http://ukmc.se/blog/2017/09/23/nyhet4/</guid>
+      <description>&lt;p&gt;Klubbens säsongsavslutning
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sulas MC</title>
+      <link>http://ukmc.se/blog/2017/09/02/blogpost1/</link>
+      <pubDate>Sat, 02 Sep 2017 21:49:20 +0200</pubDate>
+      
+      <guid>http://ukmc.se/blog/2017/09/02/blogpost1/</guid>
+      <description>&lt;p&gt;Provkörning på Sulas MC
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

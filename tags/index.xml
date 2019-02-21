@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Uppsala Kristna Motorcykelklubb</title>
+    <link>http://ukmc.se/tags/</link>
+    <description>Recent content in Tags on Uppsala Kristna Motorcykelklubb</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (C) 2019, UKMC</copyright>
+    <lastBuildDate>Sun, 22 Jul 2018 13:07:31 +0200</lastBuildDate>
+    
+	<atom:link href="http://ukmc.se/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://ukmc.se/tags/</link>
+      <pubDate>Sun, 22 Jul 2018 13:07:31 +0200</pubDate>
+      
+      <guid>http://ukmc.se/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>http://ukmc.se/tags/blog/</link>
+      <pubDate>Sat, 23 Sep 2017 21:49:20 +0200</pubDate>
+      
+      <guid>http://ukmc.se/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
