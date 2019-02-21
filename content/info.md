@@ -4,9 +4,11 @@ description = "Information om och för klubben och dess medlemmar"
 keywords = ["info","klubb","ukmc","vad"]
 +++
 ## Länkar
-**[Medlemsforum](http://motordravel.boards.net/)**
+**[Medlemsforum (direktlänk)](http://motordravel.boards.net/)**
 
-**[Regler vid körning i kortege](/doc/kortege.pdf)**
+**[Hur du registrerar dig på medlemsforumet](/forum)**
+
+**[Regler vid körning i kortege](/kortege)**
 
 **[Stadgar](/doc/stadgar.pdf)**
 
