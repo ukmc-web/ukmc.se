@@ -5,7 +5,7 @@ keywords = ["info","klubb","ukmc","vad"]
 +++
 
 ### Instruktion för att skapa konto på klubbens diskussionsforum, Motordravel:
-- öppna en webbläsare och gå till: [motordravel.boards.net](motordravel.boards.net)
+- öppna en webbläsare och gå till: [motordravel.boards.net](https://motordravel.boards.net)
 - klicka på [Register]
 - ange din mejladress
 - skapa nytt lösenord och skriv in (2 gånger)
